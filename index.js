@@ -23,7 +23,8 @@ function dec(num1){
 }
 
 function makeInt(string){
-  return (var a = (parseInt(string)));
+  var a = (parseInt(string));
+  return a;
 }
 
 
