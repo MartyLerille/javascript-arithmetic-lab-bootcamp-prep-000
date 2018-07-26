@@ -32,5 +32,5 @@ function preserveDecimal(string){
   return(a);
 }
 
-parseInt(nononsense)
+parseInt('nononsense', 10);
 
