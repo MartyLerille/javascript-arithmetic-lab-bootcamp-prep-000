@@ -32,4 +32,4 @@ function preserveDecimal(string){
   return(a);
 }
 
-
+parseInt('nonsense!', 10);
