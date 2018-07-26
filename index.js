@@ -22,8 +22,8 @@ function dec(num1){
   return(num1 -+ 1);
 }
 
-function makeInt(string){
-  var a = parseInt(string);
+function makeInt('2.2222', 10){
+  var a = parseInt('2.2222');
 }
 
 function preserveDecimal(string){
