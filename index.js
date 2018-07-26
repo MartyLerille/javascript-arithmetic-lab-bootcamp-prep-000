@@ -32,7 +32,7 @@ function preserveDecimal(string){
   return(a);
 }
 
-function makeI(a){
+function makeI(nonsense) {
  a = parseInt('nonsense!');
 return(a);
 }
