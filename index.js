@@ -23,8 +23,8 @@ function dec(num1){
 }
 
 function makeInt(n){
-  var a = parseInt(n);
-  return(a);
+  return parseInt(n);
+
 }
 
 function preserveDecimal(string){
@@ -34,5 +34,4 @@ function preserveDecimal(string){
 
 function makeI(nonsense) {
  a = parseInt('nonsense!');
-return(a);
 }
