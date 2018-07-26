@@ -24,7 +24,6 @@ function dec(num1){
 
 function makeInt(string){
   var a = parseInt(string);
-  return a;
 }
 
 function preserveDecimal(string){
