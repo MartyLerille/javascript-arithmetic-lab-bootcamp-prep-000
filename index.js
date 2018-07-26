@@ -23,7 +23,7 @@ function dec(num1){
 }
 
 function makeInt(n){
-  var a = parseInt(n);
+  var a = parseInt(2.2222);
   return(a);
 }
 
