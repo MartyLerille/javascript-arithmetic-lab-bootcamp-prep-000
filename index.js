@@ -26,7 +26,6 @@ function makeInt(string){
   var a = parseInt(string);
   console.log(a);
 }
-makeInt('10', 10)
 
 function preserveDecimal(string){
   var a = parseFloat(string);
